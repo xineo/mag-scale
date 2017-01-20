@@ -1,0 +1,9 @@
+{
+  "title": "Mag-Scale",
+  "category": "MagSeb",
+  "description": "MagSeb Scale",
+  "main": "magscale.js",
+  "dependencies": {
+    "tabris": "^1.10.0"
+  }
+}
