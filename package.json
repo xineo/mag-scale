@@ -4,6 +4,6 @@
   "description": "MagSeb Scale",
   "main": "magscale.js",
   "dependencies": {
-    "tabris": "^1.10.0"
+    "tabris": "^1.9.0"
   }
 }
