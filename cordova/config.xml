@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="my.test.app" version="1.0.0">
+  <name>test</name>
+  <description>
+  Test
+  </description>
+  <author email="seb@freeice.org" href="http://freeice.org">
+    SebFreeice
+  </author>
+</widget>
